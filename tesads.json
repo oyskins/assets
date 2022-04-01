@@ -1,0 +1,65 @@
+{
+"Ads": [
+    {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    {
+    "title":"Superhero",
+    "image":"https://lh3.googleusercontent.com/7VgABBwmdQ8scsGN_EqiUdX9A2sI5jvJvBRSOpKluli2Vk2Wx5F_AIJXd0jYT0b5fSrPl0zjtIKcJ7Q_XPQ-enuXAP8vCM0Cuw",
+    "link":"https://play.google.com/store/apps/details?id=com.alienmcpe.superheroskin"
+  },{
+    "title":"Villain",
+    "image":"https://lh3.googleusercontent.com/kEBtFPnn-S6W6bXKoxPaNlkn5HlXxvBw1kz_QuWFI_v5gnKFXe3NJPhvCF2FigOkzX0SPeyXp0SQ5oHPwKM2M3uiFEnD70G38PA3",
+    "link":"https://play.google.com/store/apps/details?id=com.alienmcpe.villainsuperheroskin"
+  },{
+    "title":"Shinobi",
+    "image":"https://lh3.googleusercontent.com/YXsj7Nzl-FIzukpSG38E_tlrlz6_ayzoOwbscMWbfjOwsA54n2OJXPY30RaR2BblYUhybUYe5I-lVeTWz7ExR7Utxj8tuZLETgc",
+    "link":"https://play.google.com/store/apps/details?id=com.alienmcpe.animenarutoskin"
+  },{
+    "title":"Pirates",
+    "image":"https://lh3.googleusercontent.com/LY96zFHuQCbRxF0Z5eGfvJqj3eEshwcZ9qEQHmY4HBKlq5JY6FZJPGb_Ze23JUJowTfoKZL1XKGlFZmtC6rhFA",
+    "link":"https://play.google.com/store/apps/details?id=com.alienmcpe.animeonepiece"
+  },{
+    "title":"Saiyan",
+    "image":"https://lh3.googleusercontent.com/Lwq6Z56MJxzvbUVXWtOcMgBhJYhpcaYsaFyMlVHwOtkD_o_gjyGM2_dZhvnt5TgQrbcivYj_BesplrHOR3hHWtO_oPyKJmodXrk",
+    "link":"https://play.google.com/store/apps/details?id=com.alienmcpe.dragonballskin"
+  },{
+    "title":"Bender",
+    "image":"https://lh3.googleusercontent.com/FhkMHHFQ7y9RXm-EBD5gNxqHezgXaTiNF4CWPTtjZw6ToYpgXNx1bb1St5eaa8u5fToh-OMPUnvznYvywr0APUw",
+    "link":"https://play.google.com/store/apps/details?id=com.alienmcpe.tehlastairbender"
+  },{
+    "title":"Ultraman",
+    "image":"https://lh3.googleusercontent.com/uWS07jul1tJwqMMgsJ2BEcHjWScwhaOmbV2yfFWxzjTIo6nqGD8iT4_2WYoiyhaIv6cjQEEwmgoNIvMEUOtc",
+    "link":"https://play.google.com/store/apps/details?id=com.ultra.ultramankaiju"
+  },{
+    "title":"Rider",
+    "image":"https://lh3.googleusercontent.com/l7gxK_iBBr4fKLejchO2e7dBXE1n51BCnN-GUPSSvr2E05cHpIj5M6HvkcoWIOYJ8J87ICb6xkaCHi1UPhcwEA",
+    "link":"https://play.google.com/store/apps/details?id=com.alienmcpe.kamenrider"
+  },{
+    "title":"Mikecrack",
+    "image":"https://lh3.googleusercontent.com/pudmFoKuyqU470Ca810kFBY0xMmt4nWJDWF-lOk7_chsb2i0f8A3TXk9m6WjiJ5l2sPHCnan8CTwQodklkyPtTIIOpkgD9onSZg",
+    "link":"https://play.google.com/store/apps/details?id=com.alienmcpe.mikecrackskin"
+  }
+  ]
+}
+    
